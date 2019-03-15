@@ -1,2 +1,1 @@
-# Bookmark
-kids reading tracking app
+# Wordly
